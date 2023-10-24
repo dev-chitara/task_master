@@ -8,4 +8,3 @@ class Users(models.Model):
     location = models.FloatField()
     emp_no = models.IntegerField()
 
-    
